@@ -1,0 +1,48 @@
+@charset "utf-8";
+.MovieModal{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 40%;
+    padding: 30px;
+    border-radius: 6px;
+    background-color: #F0F0F0;
+}
+.MovieModal_in{
+    display: flex;
+    justify-content: space-between;
+}
+.modal_poster, .modal_detail{
+    width: 300px;
+    height: 470px;
+}
+.modal_poster img{
+   width: 100%;
+   height: auto;
+   border-radius: 6px;
+}
+.modal_detail span{
+    font-weight: 600
+}
+.modal_detail p{
+    margin: 10px 0;
+}
+.modal_detail .modal_title{
+    margin-top: 0;
+}
+.modal_synopsis>div{
+    height: 180px;
+    padding-right: 6px;
+    overflow: auto;
+}
+.closeModal{
+    width: 67px;
+    margin: 20px auto;
+}
+.closeModal button{
+    padding: 2px 20px;
+    border: 1.2px solid #AAAAAA;
+    border-radius: 6px;
+    font-weight: 600;
+}
