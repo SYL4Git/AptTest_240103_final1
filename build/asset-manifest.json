@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0cbcb73f.css",
+    "main.js": "/static/js/main.5e5b37aa.js",
+    "static/media/Venom2.jfif": "/static/media/Venom2.f711559675a330de2dd0.jfif",
+    "static/media/Roundup2.jfif": "/static/media/Roundup2.02f3e89174d66742be34.jfif",
+    "static/media/FnF9.jfif": "/static/media/FnF9.bcf2892deb0c45e15db6.jfif",
+    "static/media/Roundup3.jfif": "/static/media/Roundup3.db5ddad5265c9c7f389b.jfif",
+    "static/media/SM_NWH.jfif": "/static/media/SM_NWH.e4082b5bbcb57bccd95f.jfif",
+    "static/media/Tenet.jfif": "/static/media/Tenet.90d675267e1424f651a3.jfif",
+    "static/media/GOG_VOL_3(1).png": "/static/media/GOG_VOL_3(1).229f526ef1ab825ab4ab.png",
+    "static/media/Demonslayer.jpeg": "/static/media/Demonslayer.550e456fae6a8d1b2855.jpeg",
+    "static/media/SM_ATU.jfif": "/static/media/SM_ATU.3f8880c9f0a85c32b0a6.jfif",
+    "static/media/Sonic.jfif": "/static/media/Sonic.bad0859ac0efbe27c263.jfif",
+    "static/media/BlackWidow.jfif": "/static/media/BlackWidow.403355714323116f4f65.jfif",
+    "static/media/Batz.jfif": "/static/media/Batz.0a943fde54c74db00f95.jfif",
+    "static/media/Topgun.jfif": "/static/media/Topgun.e817ff89f1cbbfcf3cb9.jfif",
+    "static/media/DrDolittle.jpg": "/static/media/DrDolittle.3e60b607f6caff5c39c7.jpg",
+    "static/media/MI7.jpg": "/static/media/MI7.629b55cddbc1d3cb0947.jpg",
+    "static/media/Antman.webp": "/static/media/Antman.2a3cc32a3cc99953d7df.webp",
+    "static/media/Steelrain2.jpeg": "/static/media/Steelrain2.7169be609de59a69a701.jpeg",
+    "static/media/DrStrange.jpg": "/static/media/DrStrange.8ec822a5b6844388e48c.jpg",
+    "static/media/Thor.jfif": "/static/media/Thor.96e934d13bbad9835371.jfif",
+    "static/media/DOS.jfif": "/static/media/DOS.7daad193acc6c94f1865.jfif",
+    "index.html": "/index.html",
+    "main.0cbcb73f.css.map": "/static/css/main.0cbcb73f.css.map",
+    "main.5e5b37aa.js.map": "/static/js/main.5e5b37aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cbcb73f.css",
+    "static/js/main.5e5b37aa.js"
+  ]
+}
